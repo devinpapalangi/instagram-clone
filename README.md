@@ -39,6 +39,8 @@ Users can engage with posts by leaving comments and liking them. These interacti
 
 # Technology Stack
 
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase)](https://skillicons.dev)
+
 This project is developed using the following technologies:
 
 - **Front-end**: The front-end of the application is built with Flutter, a popular and versatile framework for building cross-platform mobile applications. Flutter allows for a single codebase to create both Android and iOS apps with a rich set of pre-designed UI components and a fast development workflow.
